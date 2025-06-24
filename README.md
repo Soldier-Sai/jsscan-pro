@@ -156,6 +156,4 @@ Feel free to submit issues or pull requests! Suggestions for new detection patte
 
 ## License
 
-MIT License
-
----
+[MIT](LICENSE) © [Soldier-Sai](https://github.com/Soldier-Sai)
