@@ -3,7 +3,7 @@
 
 A powerful tool to scan JavaScript files and URLs for exposed sensitive information, secrets, API keys, suspicious comments, and more.
 
----
+![Demo](https://miro.medium.com/v2/resize:fit:1400/1*Ro3ilUeUGAtlHWgIYxuxrA.jpeg)
 
 ## Features
 
