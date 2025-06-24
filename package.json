@@ -1,0 +1,19 @@
+{
+  "name": "jsscan-pro",
+  "version": "1.0.0",
+  "description": "Enhanced JavaScript secrets scanner tool",
+  "main": "jsscan-pro.js",
+  "scripts": {
+    "start": "node jsscan-pro.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.3.0",
+    "clipboardy": "^3.0.0",
+    "js-beautify": "^1.14.7",
+    "minimist": "^1.2.8",
+    "table": "^6.8.1"
+  }
+}
