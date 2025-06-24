@@ -26,10 +26,10 @@ A powerful tool to scan JavaScript files and URLs for exposed sensitive informat
 
 ## Installation
 
-1. **Clone the repository** (replace `<your-github-url>` with your repo URL):
+1. **Clone the repository**
 
    ```bash
-   git clone <your-github-url>
+   git clone https://github.com/Soldier-Sai/jsscan-pro
    cd jsscan-pro
    ```
 
@@ -159,8 +159,3 @@ Feel free to submit issues or pull requests! Suggestions for new detection patte
 MIT License
 
 ---
-
-## Contact
-
-Your Name — [your.email@example.com](mailto:your.email@example.com)  
-GitHub: [https://github.com/yourusername/jsscan-pro](https://github.com/yourusername/jsscan-pro)
